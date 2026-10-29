@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<h1>John Smith</h1>
+
+<h2>About Me</h2>
+<p>Information about yourself.</p>
+
+<h2>Skills</h2>
+
+<h3>Programming</h3>
+<p>Python, HTML, CSS</p>
+
+<h3>Networking</h3>
+<p>DHCP, DNS, TCP/IP</p>
+
+<h2>Projects</h2>
+
+<h3>Home Lab</h3>
+<p>Description here.</p>
+
+<h3>Python Port Scanner</h3>
+<p>Description here.</p>
+
+<h2>Certifications</h2>
+
+<h2>Contact</h2>
